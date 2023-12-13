@@ -1,5 +1,10 @@
 # Tracking (Fingerprinting) JS Blocklist 
-**Test only, use at your own risk :)**    
+
+---
+
+- **Test only, use at your own risk :)**  
+- Blocks common tracking JS that may use multiple browser APIs to fingerprint users.  
+- Data source: [DuckDuckGo Tracker Radar](https://github.com/duckduckgo/tracker-radar) (see their [blog post](https://spreadprivacy.com/duckduckgo-tracker-radar/) and [docs](https://github.com/duckduckgo/tracker-radar/tree/main/docs) for detail) 
 
 ---  
   
