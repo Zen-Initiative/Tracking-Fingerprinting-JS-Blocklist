@@ -32,11 +32,17 @@ Parameters:
 - High Certainty blocklist: Fingerprinting = 3 ("almost certainly for tracking purposes")
 - Possible tracking URLs blocklist: Fingerprinting = 2 ("possibly for tracking purposes")  
   
-What does that mean?
+What does this mean?
 - See [DDG Tracker Radar Data Model](https://github.com/duckduckgo/tracker-radar/blob/main/docs/DATA_MODEL.md#fingerprinting-0-3)  
 
 ---
+
+#### Whitelisting & potential false positives
+- Currently no whitelist is applied when generating the blocklists.
+- You can create local exceptions (in uBO ect) to handle any false positives.
   
+---
+
 ## License
 - This project: [Creative Commons Zero v1.0 Universal](https://github.com/Zen-Initiative/Tracking-Fingerprinting-JS-Blocklist/blob/main/LICENSE)  
 - DuckDuckGo Tracker Radar data: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
