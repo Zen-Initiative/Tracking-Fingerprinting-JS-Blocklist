@@ -1,4 +1,4 @@
-# Tracking-Fingerprinting-JS-Blocklist
+# Tracking/Fingerprinting-JS-Blocklist
 Test only, use at your own risk :)
 
 ## License
