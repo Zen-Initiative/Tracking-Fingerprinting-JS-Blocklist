@@ -5,17 +5,17 @@
   
 #### 🔒 Tracking (Fingerprinting) JS Blocklist - High Certainty
 - **URL blocklist**:  
-[https://raw.githubusercontent.com/Zen-Initiative/Tracking-Fingerprinting-JS-Blocklist/main/URL%20blocklists/tracking-js-high-URLs.txt](https://raw.githubusercontent.com/Zen-Initiative/Tracking-Fingerprinting-JS-Blocklist/main/URL%20blocklists/tracking-js-high-URLs.txt)  
+[https://raw.githubusercontent.com/Zen-Initiative/Tracking-Fingerprinting-JS-Blocklist/main/URL-blocklists/tracking-js-high-URLs.txt](https://raw.githubusercontent.com/Zen-Initiative/Tracking-Fingerprinting-JS-Blocklist/main/URL-blocklists/tracking-js-high-URLs.txt)  
 - **uBO blocklist**:  
-[https://raw.githubusercontent.com/Zen-Initiative/Tracking-Fingerprinting-JS-Blocklist/main/uBO%20blocklists/tracking-js-high-uBO-filter.txt](https://raw.githubusercontent.com/Zen-Initiative/Tracking-Fingerprinting-JS-Blocklist/main/uBO%20blocklists/tracking-js-high-uBO-filter.txt)
+[https://raw.githubusercontent.com/Zen-Initiative/Tracking-Fingerprinting-JS-Blocklist/main/uBO-blocklists/tracking-js-high-uBO.txt](https://raw.githubusercontent.com/Zen-Initiative/Tracking-Fingerprinting-JS-Blocklist/main/uBO-blocklists/tracking-js-high-uBO.txt)  
 
 ---
   
 #### 🛠️ Tracking (Fingerprinting) JS Blocklist - Possible tracking URLs
 - **URL blocklist**:  
-[https://raw.githubusercontent.com/Zen-Initiative/Tracking-Fingerprinting-JS-Blocklist/main/URL%20blocklists/tracking-js-possible-URLs.txt](https://raw.githubusercontent.com/Zen-Initiative/Tracking-Fingerprinting-JS-Blocklist/main/URL%20blocklists/tracking-js-possible-URLs.txt)  
+[https://raw.githubusercontent.com/Zen-Initiative/Tracking-Fingerprinting-JS-Blocklist/main/URL-blocklists/tracking-js-possible-URLs.txt](https://raw.githubusercontent.com/Zen-Initiative/Tracking-Fingerprinting-JS-Blocklist/main/URL-blocklists/tracking-js-possible-URLs.txt)  
 - **uBO blocklist**:  
-[https://raw.githubusercontent.com/Zen-Initiative/Tracking-Fingerprinting-JS-Blocklist/main/uBO%20blocklists/tracking-js-possible-uBO-filter.txt](https://raw.githubusercontent.com/Zen-Initiative/Tracking-Fingerprinting-JS-Blocklist/main/uBO%20blocklists/tracking-js-possible-uBO-filter.txt)  
+[https://raw.githubusercontent.com/Zen-Initiative/Tracking-Fingerprinting-JS-Blocklist/main/uBO-blocklists/tracking-js-possible-uBO.txt](https://raw.githubusercontent.com/Zen-Initiative/Tracking-Fingerprinting-JS-Blocklist/main/uBO-blocklists/tracking-js-possible-uBO.txt)  
 
 ---
   
