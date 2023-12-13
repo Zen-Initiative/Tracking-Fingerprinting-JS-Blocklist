@@ -1,4 +1,4 @@
-# Tracking (Fingerprinting) JS Blocklist 
+# 🛡️ Tracking (Fingerprinting) JS Blocklist 
 
 ---
 
@@ -16,7 +16,7 @@
 
 ---
   
-#### 🛠️ Tracking (Fingerprinting) JS Blocklist - Possible tracking URLs
+#### 🔏 Tracking (Fingerprinting) JS Blocklist - Possible tracking URLs
 - **URL blocklist**:  
 [https://raw.githubusercontent.com/Zen-Initiative/Tracking-Fingerprinting-JS-Blocklist/main/URL-blocklists/tracking-js-possible-URLs.txt](https://raw.githubusercontent.com/Zen-Initiative/Tracking-Fingerprinting-JS-Blocklist/main/URL-blocklists/tracking-js-possible-URLs.txt)  
 - **uBO blocklist**:  
@@ -37,15 +37,20 @@ What does this mean?
 
 ---
 
-#### Whitelisting & potential false positives
+#### 🔓 Whitelisting & potential false positives
 - Currently no whitelist is applied when generating the blocklists.
 - You can create local exceptions (in uBO ect) to handle any false positives.
   
 ---
-
+  
+#### ⚙️ Generate blocklists
+- The script used to generate these blocklists was adapted from [malware-filter/tracking-filter](https://gitlab.com/malware-filter/tracking-filter), converted to python with changes and tweaks.
+  
+---
+  
 ## License
 - This project: [Creative Commons Zero v1.0 Universal](https://github.com/Zen-Initiative/Tracking-Fingerprinting-JS-Blocklist/blob/main/LICENSE)  
-- DuckDuckGo Tracker Radar data: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
-- This repository is not endorsed by DuckDuckGo.
+- DuckDuckGo Tracker Radar data: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). This repository is not endorsed by DuckDuckGo.
+- [Original scripts](https://gitlab.com/malware-filter/tracking-filter/-/tree/main/src) for URL extraction and blocklist generation: [Creative Commons Zero v1.0 Universal](https://gitlab.com/malware-filter/tracking-filter/-/blob/main/LICENSE-CC0.md) and [MIT License](https://gitlab.com/malware-filter/tracking-filter/-/blob/main/LICENSE).
 
 ---
