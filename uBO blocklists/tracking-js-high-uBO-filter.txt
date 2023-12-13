@@ -1,11 +1,11 @@
 ! [Adblock Plus 2.0]
 ! Title: 🔒 Tracking (Fingerprinting) JS Blocklist - High Certainty
 ! Source: DuckDuckGo Tracker Radar (https://github.com/duckduckgo/tracker-radar)
-! Updated: 2023-12-13T07:26:27Z
+! Updated: 2023-12-13T09:11:22Z
 ! Expires: 31 days (update frequency depends on upstream source)
-! Homepage: TBC
-! License: TBC
-!-----------------------------------------------------------------------------------!
+! Homepage: https://github.com/Zen-Initiative/Tracking-Fingerprinting-JS-Blocklist
+! License: https://github.com/Zen-Initiative/Tracking-Fingerprinting-JS-Blocklist/blob/main/README.md#license
+!----------------------------------------------------------------------------------------------------------------!
 ||.s3.us-west-2.amazonaws.com/jsma/fp.js$all
 ||05e11c9f6f.com/beaf1c391ab05924918964239b15e0d8.js$all
 ||07c225f3.online/loader.min.js$all

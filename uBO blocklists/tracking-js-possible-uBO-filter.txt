@@ -1,11 +1,11 @@
 ! [Adblock Plus 2.0]
 ! Title: 🛠️ Tracking (Fingerprinting) JS Blocklist - Possible tracking URLs
 ! Source: DuckDuckGo Tracker Radar (https://github.com/duckduckgo/tracker-radar)
-! Updated: 2023-12-13T07:26:27Z
+! Updated: 2023-12-13T09:11:22Z
 ! Expires: 31 days (update frequency depends on upstream source)
-! Homepage: TBC
-! License: TBC
-!-----------------------------------------------------------------------------------!
+! Homepage: https://github.com/Zen-Initiative/Tracking-Fingerprinting-JS-Blocklist
+! License: https://github.com/Zen-Initiative/Tracking-Fingerprinting-JS-Blocklist/blob/main/README.md#license
+!----------------------------------------------------------------------------------------------------------------!
 ||.s3.us-west-2.amazonaws.com/jsma/fLr415N/ma.js$all
 ||05e11c9f6f.com/2a3a083c502b4fdac789699b4fd54e0e.js$all
 ||05e11c9f6f.com/3c3793a75c91607c6d25b29d198d1cce.js$all
