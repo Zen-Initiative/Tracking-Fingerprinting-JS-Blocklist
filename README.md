@@ -31,7 +31,7 @@
   
 #### 🎯Source & Parameters 
 Source:  
-- DuckDuckGo Tracker Radar [https://github.com/duckduckgo/tracker-radar](https://github.com/duckduckgo/tracker-radar)  
+- DuckDuckGo Tracker Radar: [https://github.com/duckduckgo/tracker-radar](https://github.com/duckduckgo/tracker-radar)  
   
 Parameters: 
 - High Certainty blocklist: Fingerprinting = 3 ("almost certainly for tracking purposes")
