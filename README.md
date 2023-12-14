@@ -35,7 +35,7 @@ Source:
   
 Parameters: 
 - High Certainty blocklist: Fingerprinting = 3 ("almost certainly for tracking purposes")
-- Possible tracking URLs blocklist: Fingerprinting = 2 ("possibly for tracking purposes")  
+- Possible tracking JS blocklist: Fingerprinting = 2 ("possibly for tracking purposes")  
   
 What does this mean?
 - See [DDG Tracker Radar Data Model](https://github.com/duckduckgo/tracker-radar/blob/main/docs/DATA_MODEL.md#fingerprinting-0-3)  
