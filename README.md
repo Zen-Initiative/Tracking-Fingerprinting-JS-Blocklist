@@ -57,7 +57,7 @@ See a real-life example with more detail in our Wiki: [Notes on uBO strict block
 ---
   
 #### ⚙️ Generate blocklists
-- The [script](https://github.com/Zen-Initiative/Tracking-Fingerprinting-JS-Blocklist/blob/main/Generate-blocklists/Generate_tracking_JS_blocklists.py) used to generate these blocklists was adapted from [malware-filter/tracking-filter](https://gitlab.com/malware-filter/tracking-filter) and converted to python with changes and tweaks.
+- The [script](https://github.com/Zen-Initiative/Tracking-Fingerprinting-JS-Blocklist/blob/main/.scripts/Generate_tracking_JS_blocklists.py) used to generate these blocklists was adapted from [tracking-filter](https://gitlab.com/malware-filter/tracking-filter) and converted to python with changes and tweaks.
   
 ---
   
