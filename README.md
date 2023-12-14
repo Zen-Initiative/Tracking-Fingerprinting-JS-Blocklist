@@ -44,7 +44,7 @@ What does this mean?
 
 #### 🔒🔒 uBO strict blocklists 🔏🔏
 
-The strict version of the uBO blocklists makes use of `$all` in [uBO's extended syntax](https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#all), mainly to offer additional protection concerning `inline script tags` and `inline font tags`, which _can_ be used to fingerprint users.
+The strict version of the uBO blocklists makes use of the `$all` option in [uBO's extended syntax](https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#all), mainly to offer additional protection concerning `inline script tags` and `inline font tags`, which _can_ be used to fingerprint users.
   
 ---
   
