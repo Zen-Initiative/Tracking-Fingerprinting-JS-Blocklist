@@ -13,7 +13,9 @@
 [https://raw.githubusercontent.com/Zen-Initiative/Tracking-Fingerprinting-JS-Blocklist/main/URL-blocklists/tracking-js-high-URLs.txt](https://raw.githubusercontent.com/Zen-Initiative/Tracking-Fingerprinting-JS-Blocklist/main/URL-blocklists/tracking-js-high-URLs.txt)  
 - **uBO blocklist**:  
 [https://raw.githubusercontent.com/Zen-Initiative/Tracking-Fingerprinting-JS-Blocklist/main/uBO-blocklists/tracking-js-high-uBO.txt](https://raw.githubusercontent.com/Zen-Initiative/Tracking-Fingerprinting-JS-Blocklist/main/uBO-blocklists/tracking-js-high-uBO.txt)  
-
+- **uBO blocklist - strict**:  
+[https://raw.githubusercontent.com/Zen-Initiative/Tracking-Fingerprinting-JS-Blocklist/main/uBO-blocklists/tracking-js-high-uBO-strict.txt](https://raw.githubusercontent.com/Zen-Initiative/Tracking-Fingerprinting-JS-Blocklist/main/uBO-blocklists/tracking-js-high-uBO-strict.txt)
+  
 ---
   
 #### 🔏 Tracking (Fingerprinting) JS Blocklist - Possible tracking URLs
@@ -21,7 +23,10 @@
 [https://raw.githubusercontent.com/Zen-Initiative/Tracking-Fingerprinting-JS-Blocklist/main/URL-blocklists/tracking-js-possible-URLs.txt](https://raw.githubusercontent.com/Zen-Initiative/Tracking-Fingerprinting-JS-Blocklist/main/URL-blocklists/tracking-js-possible-URLs.txt)  
 - **uBO blocklist**:  
 [https://raw.githubusercontent.com/Zen-Initiative/Tracking-Fingerprinting-JS-Blocklist/main/uBO-blocklists/tracking-js-possible-uBO.txt](https://raw.githubusercontent.com/Zen-Initiative/Tracking-Fingerprinting-JS-Blocklist/main/uBO-blocklists/tracking-js-possible-uBO.txt)  
-
+- **uBO blocklist - strict**:  
+[https://raw.githubusercontent.com/Zen-Initiative/Tracking-Fingerprinting-JS-Blocklist/main/uBO-blocklists/tracking-js-possible-uBO-strict.txt
+](https://raw.githubusercontent.com/Zen-Initiative/Tracking-Fingerprinting-JS-Blocklist/main/uBO-blocklists/tracking-js-possible-uBO-strict.txt)
+  
 ---
   
 #### 🎯Source & Parameters 
