@@ -42,6 +42,12 @@ What does this mean?
 
 ---
 
+#### 🔒🔒 uBO strict blocklists 🔏🔏
+
+The strict version of the uBO blocklists makes use of `$all` in [uBO's extended syntax](https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#all), mainly to offer additional protection concerning `inline script tags` and `inline font tags`, which _can_ be used to fingerprint users.
+  
+---
+  
 #### 🔓 Whitelisting & potential false positives
 - Currently no whitelist is applied when generating the blocklists.
 - You can create local exceptions (in uBO ect) to handle any false positives.
