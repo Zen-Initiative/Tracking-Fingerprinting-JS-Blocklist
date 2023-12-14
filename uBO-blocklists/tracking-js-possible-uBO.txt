@@ -1,6 +1,6 @@
 ! Title: 🔏 Tracking (Fingerprinting) JS Blocklist - Possible tracking JS
 ! Source: DuckDuckGo Tracker Radar (https://github.com/duckduckgo/tracker-radar)
-! Updated: 2023-12-14T08:39:50Z
+! Updated: 2023-12-14T23:15:11Z
 ! Expires: 31 days (update frequency depends on upstream source)
 ! Homepage: https://github.com/Zen-Initiative/Tracking-Fingerprinting-JS-Blocklist
 ! License: https://github.com/Zen-Initiative/Tracking-Fingerprinting-JS-Blocklist/blob/main/README.md#license
@@ -236,7 +236,6 @@
 ||adhouse.pro/code/hb.js
 ||adition.com/banners/3317/17043488/app.js
 ||adition.com/js/srp.js
-||aditude.io/prebid/7.54.3.js
 ||adjust.com/adjust-5.0.0.min.js
 ||adjust.com/adjust-5.1.2.min.js
 ||adjust.com/adjust-latest.min.js
@@ -1408,7 +1407,6 @@
 ||adpushup.com/45364/adpushup.js
 ||adpushup.com/45492/adpushup.js
 ||adpushup.com/prebid/pb.37780.1701452784604.js
-||adpushup.com/prebid/pb.39403.1700748915903.js
 ||adpushup.com/prebid/pb.41931.1699352481688.js
 ||adpushup.com/prebid/pb.44224.1699013292661.js
 ||adrino.cloud/prebid/adrino-prebid-6.8.0-3.js
@@ -1712,7 +1710,6 @@
 ||alicdn.com/lazada/dynamic-static-nopolyfill/0.0.1/daraz-marketing-tracker.js
 ||alicdn.com/retcode/bl.js
 ||alicdn.com/retcode/cloud-sdk/bl.js
-||alicdn.com/secdev/nsv/1.0.87/ns_f_95_3_f.js
 ||alikunlun.com/dae/fundin/piwik.js
 ||alive5.com/js/widget-min.js
 ||allanime.day/999hentai/app/b80c0e4.js
@@ -1734,7 +1731,6 @@
 ||amaicdn.com/preorder2/common.js
 ||amazon-adsystem.com/aax2/apstag.js
 ||amazon-adsystem.com/apstag.js
-||amazon-adsystem.com/bao-csm/direct/csm_othersv5.js
 ||amazon-adsystem.com/publisher.js
 ||amazon.com/client/lib/v1/d2c-client-lib.47c7f239.js
 ||amcdn.vn/core/adm_tracking.js
@@ -1770,7 +1766,6 @@
 ||aniview.com/script/6.1/ab5/AVmanager.js
 ||aniview.com/script/6.1/ab5/libs/prebid/avpb8.21.0.js
 ||aniview.com/script/6.1/libs/prebid/avpb8.21.0.js
-||aniview.com/script/6.1/libs/prebid/avpb8.21.0a3.js
 ||aniview.com/script/6.1/libs/prebid/avpb8.21.0a4.js
 ||aniview.com/script/6.1/libs/prebid/avpb8.21.0a6.js
 ||ankama.com/forums_ng/modules/common/common.js
@@ -2887,7 +2882,6 @@
 ||cdn-anvilcms.net/static/45.2.0-alpha8/webpack/283.js
 ||cdn-apple.com.akadns.net/appleauth/static/jsapi/authService.latest.min.js
 ||cdn-apple.com/appleauth/static/jsapi/appleid/1/de_DE/appleid.auth.js
-||cdn-apple.com/appleauth/static/jsapi/appleid/1/en_US/appleid.auth.js
 ||cdn-apple.com/appleauth/static/jsapi/appleid/1/fi_FI/appleid.auth.js
 ||cdn-apple.com/appleauth/static/jsapi/appleid/1/fr_FR/appleid.auth.js
 ||cdn-apple.com/appleauth/static/jsapi/appleid/1/nl_NL/appleid.auth.js
@@ -3034,7 +3028,6 @@
 ||chicdn.net/spa/widgets/secure-ah-omni-channel-auth-widget/2.0.0/spa-assets/bundles/bcc80af.js
 ||childlikecrowd.com/dist/3407b97d824/95a85abc6ad70947e8e8c56b7.index.js
 ||chip.de/p/player/latest/tfa.js
-||chmedia.ch/libs/t.min.js
 ||choiceassets.azureedge.net/StyleguideMVC/Deployments-22801/2023.8.7695/js/choice.min.js
 ||choupsee.com/pfe/current/tag.min.js
 ||christianbook.com.edgekey.net/ns/js/packed/common.js
@@ -3064,7 +3057,6 @@
 ||clarip.com/sundance/donotsell/assets/js/donotsell-block.min.js
 ||clarip.com/voya/cookieconsent/assets/js/clarip-cookie-manager.min.js
 ||clarip.com/voya/donotsell/assets/js/donotsell-block.min.js
-||clarity.ms/s/0.7.20/clarity.js
 ||clarity.ms/s/0.7.20/web-performance.js
 ||clarivoy.com/common/read_from_config/clarivoy.js
 ||clarivoy.com/cox/td/tva/loader.js
@@ -3131,7 +3123,6 @@
 ||clicktale.net/www49/ptc/73e43e63-0ccd-4ba6-b9a7-86141e6b5e85.js
 ||clicktale.net/www57/ptc/f6b8576e-a5af-4703-a106-a31794a75f12.js
 ||clickthruserver.com/piwik.js
-||clicktripz.com/asset/__adslot-bundle/39c4ebd3726731322c6da6c1f60deb3a368fdfd2.js
 ||clicktripz.com/asset/__adslot-bundle/c9e618582f6476582ea6c9e25ed98c8f8d7df10a.js
 ||clientgear.com/mk42487381192238_v2022399999999.js
 ||clientgear.com/mk42487381192247_v2022399999999.js
@@ -3169,7 +3160,6 @@
 ||cloud.globo/v1/AUTH_14ce1dbebbe64b1e8e955809a085692d/web-components/player-web-multicontent/prod/main.js
 ||cloud.globo/v1/AUTH_acd8438fd650434baa93efc372c066a1/libs/lib-analytics/prod/lib-analytics-latest.js
 ||cloud.globo/v1/AUTH_da787d4f4e8d46e3ad76d5fa568fe786/Delivery/lib-analytics%20(data%20loader)/lib-analytics.js
-||cloud.globo/v1/AUTH_e1b09a2d222b4900a437a46914be81e5/web/player/stable/player.min.js
 ||cloud.globo/v1/AUTH_f7772c2cb2fd4af2bb8929c0ae6fdba7/dsframework/build/mr_240588/client/bastian-202306515ae5110e462aa9ae560572eed62f1f.js
 ||cloud.globo/v1/AUTH_f7772c2cb2fd4af2bb8929c0ae6fdba7/dsframework/build/mr_256673/client/bastian-2023090ed68e498c9decfad5d7f52956ec0125.js
 ||cloudflare.com/ajax/libs/Chart.js/1.0.2/Chart.min.js
@@ -4062,7 +4052,6 @@
 ||coveo.com/searchui/v2.7968/js/CoveoJsSearch.Lazy.min.js
 ||coveo.com/searchui/v2.8521/js/CoveoJsSearch.js
 ||cozyhillside.com/build/7d9e02ba7fa2b5ce12168095098c8e572088-prod.js
-||cpmstar.com/cached/zonemasters/lib/prebid/starprebid.js
 ||cpmstar.com/cached/zonemasters/mobilemodules.js
 ||cpv3prodbluecdnedgioep.azureedge.net/resources/publicFilefolder=production/Libs_c2911565-9b23-426f-b6df-3f86a0935d42&path=components.client.bundle.23219aa59302cff9c407.js
 ||cr.org/cda-global/js/index.js
@@ -4075,7 +4064,6 @@
 ||crazyegg.com/pages/versioned/common-scripts/9df44f40c781bed54449cd8b7788ab5b.js
 ||crazyegg.com/pages/versioned/commontransformations-scripts/219d370add706cffcc1a4f80ada0a455.js
 ||crazygames.com/portal/_next/static/chunks/2109-f2ced32cb862ccd8.js
-||crazygames.com/portal/_next/static/chunks/pages/_app-fd0edf4156644ae1.js
 ||crazygames.com/prebid-v8.js
 ||cresta.ai/chatgpt-widget/index.js
 ||cricketwireless.com.akadns.net/ckmain.js
@@ -4965,7 +4953,6 @@
 ||dell.com.edgekey.net/dell/marketing/code/b5bb6167b7fa329dfe15f203a621e01d.js
 ||dell.com.edgekey.net/dell/stpfooter/Bootstrap.js
 ||dellcdn.com.akadns.net/gbx/prod/GBX_6.6.118.js
-||delta.com.edgekey.net/content/dam/delta-applications/homepage/23.11.10/main.js
 ||delta.com.edgekey.net/content/dam/delta-applications/homepage/23.11.10/polyfills.js
 ||deltacdn.net/www/lxkfef/v3.6.7/js/apps-bs.min.js
 ||demand.supply/impl.v17.23.1.js
@@ -5167,13 +5154,7 @@
 ||doubleclick.net/pagead/managed/js/gpt/m202304050101/pubads_impl.js
 ||doubleclick.net/pagead/managed/js/gpt/m202307240101/pubads_impl.js
 ||doubleclick.net/pagead/managed/js/gpt/m202311090101/pubads_impl.js
-||doubleclick.net/pagead/managed/js/gpt/m202311280101/pubads_impl.js
-||doubleclick.net/pagead/managed/js/gpt/m202311290101/pubads_impl.js
-||doubleclick.net/pagead/managed/js/gpt/m202311300101/pubads_impl.js
-||doubleclick.net/pagead/managed/js/gpt/m202312040101/pubads_impl.js
 ||doubleclick.net/pagead/managed/js/gpt/m202312040101/pubads_impl_page_level_ads.js
-||doubleclick.net/pagead/managed/js/gpt/m202312050101/pubads_impl.js
-||doubleverify.com/dvbs_src_internal124.js
 ||doug1izaerwt3.cloudfront.net/813ec6c66fa734c522b163be3ea0e2e5bb9afbb7.1.js
 ||dovm1kpuzl5bx.cloudfront.net/packs/js/libs-abf42f74f90a1f4c2196.chunk.js
 ||dovm1kpuzl5bx.cloudfront.net/packs/js/vendor-758a1f236e0d7d1af32f.chunk.js
@@ -5676,7 +5657,6 @@
 ||eyb7yvwm9dx.b-cdn.net/wp-content/plugins/ewww-image-optimizer/includes/lazysizes.min.js
 ||ezcgojaamg.com/aas/r45d/vki/1864731/018939ed.js
 ||ezcgojaamg.com/aas/r45d/vki/1978511/tghr.js
-||ezodn.com/hb/dall.js
 ||ezodn.com/parsonsmaize/chanute.js
 ||ezoic.net/beardeddragon/wyvern.js
 ||ezoic.net/ezoic/ezoic.js
@@ -5900,7 +5880,6 @@
 ||foresee.com/code/5.5.5-mp/mpathy-modern.js
 ||foresee.com/code/6.1.0-mp/mpathy-modern.js
 ||foresee.com/code/6.1.1-mp/mpathy-modern.js
-||foresee.com/code/6.1.2-mp/mpathy-modern.js
 ||foresee.com/code/7.0.0-mp/mpathy-modern.js
 ||foresee.com/code/7.2.0-mp/mpathy-modern.js
 ||foresee.com/sites/aafes/production/gateway.min.js
@@ -6025,7 +6004,6 @@
 ||freshchat.com/static/assets/fd-messaging.81eb208e3e4709ef0f7b.js
 ||freshdesk.com/assets/cdn/portal_head_v2-f9422e82675125f3bf74d6839d1388cc9812bcc1c055ac7ac3d0be56aa76df48.js
 ||freshop.com/1/web/6675d5efb815b6f64a8045e5b172024c7772b77b/cdn/js/freshop-ui.min.js
-||fressnapf.com/data/3974434f0854/9d0259e79b32/launch-38dbe50cc9b2.min.js
 ||frgapps.com/static/1.1.0-rc-20231130.77125/js/common.js
 ||friendlyanalytics.ch/matomo.js
 ||friends2follow.com/sites/all/modules/friends2follow/dist/friends2follow_postfeed.min.js
@@ -6624,8 +6602,6 @@
 ||googlesyndication.com/pagead/managed/js/adsense/m202311300101/reactive_library_fy2021.js
 ||googlesyndication.com/pagead/managed/js/adsense/m202312040101/reactive_library_fy2021.js
 ||googlesyndication.com/pagead/managed/js/adsense/m202312050101/reactive_library_fy2021.js
-||googlesyndication.com/pagead/managed/js/gpt/m202311300101/pubads_impl.js
-||googlesyndication.com/pagead/managed/js/gpt/m202312040101/pubads_impl.js
 ||googlesyndication.com/sadbundle/$csp%3Der3$/4454521980034378832/Google%5ECare%5EVoltijd%5Ehtml5%5E1%5E970x250/Google%5ECare%5EVoltijd%5Ehtml5%5E1%5E970x250.js
 ||googlesyndication.com/sadbundle/$csp%3Der3$/6014161737000235011/vintastic-300x250/vintastic-300x250.js
 ||googletagmanager.com/gtm.js
@@ -7021,7 +6997,6 @@
 ||hentaicams.xxx/widgets/v4/Universal/main.672e6e87c69b0c60653e.js
 ||heraldm.com/js/acecounter_V2022.js
 ||heraldm.com/koreaherald/version03/www/js/swiper.min.js
-||here.com/v3/3.1/mapsjs-core.js
 ||heretic-sas.com/matomo.js
 ||hermanmiller.com.edgekey.net/etc/designs/zg/hmicom-theme/desktop/js.asset.js/core/design.default.bootstrap.js
 ||heroesweb-a.akamaihd.net/i/hw-web/v2/565586/js/1006.js
@@ -7334,7 +7309,6 @@
 ||i-web.ch/stats.js
 ||iadsmedia.com/pb-10v1.js
 ||iadvize.com/static/livechat/1531765f15efa729297bd57e44cda7d4ccc1a7f6/dataPipeline.chunk.js
-||iadvize.com/static/livechat/d0942bd0bd24aa14707d9cd3fdd3b432d28a4b71/dataPipeline.chunk.js
 ||iag.com.au/prod/load/load.js
 ||ibclick.stream/assets/js/track/dist/js/v1/tracker.min.js
 ||ibm.com.edgekey.net/common/stats/ibm-common.js
@@ -7406,7 +7380,6 @@
 ||impervadns.net/iframe-SCCO/chatbotComponents/index.bundle.js
 ||impervadns.net/ivy.js
 ||impervadns.net/static/js/client.f37a3e16.js
-||improvedigital.com/pbw/prebid/prebid-idhb-v8.19.min.js
 ||imrworldwide.com/novms/js/2/nlsSDK600.bundle.min.js
 ||imrworldwide.com/v5.js
 ||imrworldwide.com/v52.js
@@ -7491,7 +7464,6 @@
 ||inplayer.com/paywall/v3/paywall.min.js
 ||inq.com/media/launch/tcFramework_jssdk.min.js
 ||insent.ai/static/js/vendors.3ba21c21.js
-||inside-graph.com/ig.js
 ||insight360usage.com/loginfo/v2/insight360pixels.js
 ||insightech.com/insightech.mini.js
 ||insightfulcloudintuition.com/js/270376.js
@@ -7742,7 +7714,6 @@
 ||jsdelivr.net/npm/foundation-sites@5.5.3/js/vendor/modernizr.js
 ||jsdelivr.net/npm/ga-lite@2/dist/ga-lite.min.js
 ||jsdelivr.net/npm/gumlet.js@2.2/dist/gumlet.min.js
-||jsdelivr.net/npm/hockeystack@latest/hockeystack.min.js
 ||jsdelivr.net/npm/luxon@1.25.0/build/global/luxon.min.js
 ||jsdelivr.net/npm/luxon@1.26.0/build/global/luxon.min.js
 ||jsdelivr.net/npm/mapbox-gl@2.14.1/dist/mapbox-gl.min.js
@@ -8291,7 +8262,6 @@
 ||loom.com/yhPeelcEJD/eejxbDiFfK.min.js
 ||loomi-prod.xyz/analytics.js
 ||loomi-prod.xyz/v/visually-a.esm.js
-||loopme.me/html/ujsp_v1/lpm.js
 ||looseloaf.com/static/8298307a44/6a8a5a25855bed9ee05f26d0eb.index.js
 ||lotteryservices.com/etc/designs/portal/home.min.20230613062309.js
 ||lovecrafts.co/_nuxt/fc0bac8.js
@@ -9276,18 +9246,12 @@
 ||moatads.com/abscbndisplaydfp10040357056/moatad.js
 ||moatads.com/acmaugamdisplay714860376938/moatad.js
 ||moatads.com/almdfp680616975594/moatad.js
-||moatads.com/bellmediadfp605600943044/moatad.js
 ||moatads.com/bizjournaldfp174707659414/moatad.js
 ||moatads.com/bloombergdfpcw4670778881/moatad.js
 ||moatads.com/cbc441030876027/moatad.js
-||moatads.com/cbsdfp5832910442/moatad.js
 ||moatads.com/choueirigroupdfp451918234534/moatad.js
-||moatads.com/clearchanneldfp218445832525/moatad.js
-||moatads.com/craindfp44917164363/moatad.js
 ||moatads.com/dowjones8650224/moatad.js
-||moatads.com/financialtimesdfp415669142494/moatad.js
 ||moatads.com/forbes274355/moatad.js
-||moatads.com/globeandmailcw746817534845/moatad.js
 ||moatads.com/gmanmidfpdisplay183413089896/moatad.js
 ||moatads.com/groupninedfpdisplay300387662149/moatad.js
 ||moatads.com/hercampusmediadfpdisplay822649658259/moatad.js
@@ -9297,16 +9261,12 @@
 ||moatads.com/nascardfp708532622345/moatad.js
 ||moatads.com/networknceltradisplay161037053557/moatad.js
 ||moatads.com/networkndfpdisplay818954865428/moatad.js
-||moatads.com/osgdfpdisplay671383587192/moatad.js
 ||moatads.com/pedestriantvdfpdisplay940979749522/moatad.js
 ||moatads.com/pgadigestgamdisplay203043885073/moatad.js
 ||moatads.com/pgaeurotourheader650823667579/moatheader.js
 ||moatads.com/pgatourdfp413937994405/moatad.js
-||moatads.com/redventuresgamdisplay60805146916/moatad.js
-||moatads.com/standarddfp964003998926/moatad.js
 ||moatads.com/thewire746082389130/moatad.js
 ||moatads.com/txmonthlydfpnew272313473931/moatad.js
-||moatads.com/voxcustomdfp152282307853/moatad.js
 ||moatads.com/wolterskluwer23569368954/moatad.js
 ||moatads.com/xogroup217415510669/moatad.js
 ||mobilism.org/matomo.js
@@ -9732,7 +9692,6 @@
 ||n.sni.global.fastly.net/_next/static/chunks/pages/_app-be57fd03b1519b3a.js
 ||n.sni.global.fastly.net/assets/public/module_yelp-frontend_commons.yji-30feb5b1168d7603558f.js
 ||n.sni.global.fastly.net/assets/public/module_yelp-frontend_commons.yji-b170e2bc3ae994c218cf.js
-||n.sni.global.fastly.net/assets/public/module_yelp-frontend_gondola-homepage.yji-7b57a97a093e8117edab.js
 ||n.sni.global.fastly.net/assets/public/module_yelp-frontend_shared-6e89366ad5339f61c2e1c3ca96d342a01707861d.yji-ce50ddca8bfc1acdfe9a.js
 ||n.sni.global.fastly.net/forum/js/proboards.combined_1144.js
 ||n.sni.global.fastly.net/hosted-libraries/t3.js
@@ -11143,8 +11102,6 @@
 ||pattisonmedia.com/tag.js
 ||payments-amazon.com/OffAmazonPayments/de/lpa/js/Widgets.js
 ||payments-amazon.com/OffAmazonPayments/us/js/Widgets.js
-||paypal.com/da/r/efbv3.js
-||paypal.com/da/r/fb.js
 ||paypal.com/tagmanager/pptm.js
 ||paypalobjects.com/api/checkout.min.js
 ||paypalobjects.com/api/xo/button.js
@@ -11318,7 +11275,6 @@
 ||photorankstatics-a.akamaihd.net/743d2e78a76dedeb07e0745158547931/static/frontend/latest/build.min.js
 ||phueled-static.pages.dev/phueled.js
 ||phym18.org/static/js/jwplayer.js
-||piano.io/api/tinypass.min.js
 ||piano.io/id/1.27.2/main-es2015.js
 ||pickystory.com/widget/dist/latest/js/sentry.11e0b4fb.js
 ||pickystory.com/widget/dist/latest/pickystory-widget.min.js
@@ -11761,7 +11717,6 @@
 ||prodperfect.com/keen-tracking.min.js
 ||producer360.io/3.4.8/main.js
 ||production-evvnt-plugin-herokuapp-com.global.ssl.fastly.net/1bd5d34e3cb4c76be920.discovery_plugin.chunk.js
-||production-evvnt-plugin-herokuapp-com.global.ssl.fastly.net/evvnt_discovery_plugin_s.js
 ||profootballrumors.b-cdn.net/js/prebid-8.9.0.js
 ||progressifyme.com/the-hockey-shop-cad/main.js
 ||prohockeyrumors.b-cdn.net/js/prebid-8.9.0.js
@@ -11772,7 +11727,6 @@
 ||project1content.com/tour/vortex.modern.min.js
 ||prokomcdn.no/plugins/ssp-kalender-app/js/libs/leaflet/leaflet.js
 ||promolayer.io/index.js
-||prplads.com/prebid-2023-10-03.js
 ||prplads.com/prebid-video-7.22.0-2023-02-06.js
 ||prvk.io/prvk-live/video.min.js
 ||prvk.io/studio/MSIWINTERST/2779/creative.min.js
@@ -12364,7 +12318,6 @@
 ||qwtag.com/60897ca2-a5a7-476c-806a-5d05ed5a3ec3/qw.js
 ||qwtag.com/d3265080-22cc-453b-a418-0aac77971bf7/qw.js
 ||r10s.jp/com/rat/js/ral-1.8.11.js
-||r2b2.io/js/6.77.0/online/public/bundle.03ce4023ff10b7d12a19.js
 ||r2net.com/resources/prod/3749.b75a406655a1ef8c4f72.js
 ||r2net.com/resources/prod/4420.1b25091985db32090f22.js
 ||r42tag.com/lib/1062-v1.js
@@ -12480,7 +12433,6 @@
 ||replayapp.io/js/camera-2463e43c50.js
 ||reproio.com/web/poc/common/repro-sdk.min.js
 ||reproio.com/web/v2/repro-sdk.min.js
-||repstatic.it/cless/common/adv/prebid6.28.0.js
 ||reqcdn.com/matomo.js
 ||requestmetrics.com/agent/current/rm.js
 ||resatravel.com/_default/js/vendor.js
@@ -12629,7 +12581,6 @@
 ||rubiconproject.com/prebid/dynamic/13062.js
 ||rubiconproject.com/prebid/dynamic/13116.js
 ||rubiconproject.com/prebid/dynamic/13126.js
-||rubiconproject.com/prebid/dynamic/13128.js
 ||rubiconproject.com/prebid/dynamic/13140.js
 ||rubiconproject.com/prebid/dynamic/13346.js
 ||rubiconproject.com/prebid/dynamic/13406.js
@@ -12875,7 +12826,6 @@
 ||section.io/media/build/libs/shared-libraries.js
 ||secure-edgedatg.edgekey.net/aws/abc/scripts/adobe-analytics2.js
 ||secure.edgekey.net/js/lib.min.js
-||securedvisit.com/js/sv.js
 ||seeds.no/matomo.js
 ||seedtag.com/c/v/2228/loader/st_0.38edbb4e73553c5e811b.js
 ||segment.com/analytics.js/v1/0ritjygxd2/analytics.min.js
@@ -13254,7 +13204,6 @@
 ||seznam.cz/js/cmp2/243.js
 ||seznam.cz/js/dot-small.js
 ||seznam.cz/static/js/ssp.js
-||sf-cdn.com/resources/bundles/common-plugins-new.min.js
 ||sfdcstatic.com.edgekey.net/digital/one-trust/core/stable/scripttemplates/202306.1.0/otBannerSdk.js
 ||sfdcstatic.com/enterprise/tableau/prod/6140/v1/oneTrust/scripttemplates/6.14.0/otBannerSdk.js
 ||sfdcstatic.com/enterprise/tableau/prod/6170/v1/oneTrust/scripttemplates/6.17.0/otBannerSdk.js
@@ -13842,7 +13791,6 @@
 ||snigelweb.com/numbeo.com/8286-1700040559150/adngin.js
 ||snigelweb.com/paraphraser.io/8417-1700662604758/adngin.js
 ||snigelweb.com/prebid/7.53.0-snpbjs/prebid.js
-||snigelweb.com/prebid/7.53.0/prebid.js
 ||snigelweb.com/prepostseo.com/8427-1700666936503/adngin.js
 ||snigelweb.com/rapidtables.com/8264-1699961572632/adngin.js
 ||snigelweb.com/studylight.org/8381-1700561976467/adngin.js
@@ -13876,7 +13824,6 @@
 ||sohatv.vn/resource/audioSwitchVoicePlayer/core/audioSwitchVoicePlayer.core.min.js
 ||sohohousedigital.com/0027470.modern.js
 ||sohohousedigital.com/a8903e0.modern.js
-||sojern.com/utils/sjrn_autocx.js
 ||solads.media/resources/scripts/jsAds-1.4.min.js
 ||solvemate.com/v2/init.js
 ||solvvy.com/deflect/customization/airtable/57/solvvy.customization.js
@@ -13913,7 +13860,6 @@
 ||sportradar.com/dist//sp-3.8.0.js
 ||sportradar.com/dist/latest/avvpl-player.js
 ||sportsengine.com/sites/default/files/js/js_ubHPjPKhZnmGXpEC2fF1hEhChTXeW4CIkd9xwo0TvHo.js
-||sportslocalmedia.com/slmadshb.js
 ||sportswarehouse.map.fastly.net/js/default.js
 ||spoteffects.net/analytics/spef.min.js
 ||spotifycdn.com/_next/static/chunks/536.c36189ce27894580.js
@@ -14070,7 +14016,6 @@
 ||stls.edgesuite.net/prod/scripts/analytics/ESPN_at_v2.rs.min.js
 ||stls.edgesuite.net/prod/scripts/prebid6.28.0.js
 ||stls.edgesuite.net/redesign/0.668.4/js/espn-analytics.js
-||stls.edgesuite.net/redesign/0.668.4/js/espn-critical.js
 ||stls.edgesuite.net/redesign/0.668.4/js/espn-defer.js
 ||stls.edgesuite.net/redesign/0.668.4/js/espn-head.js
 ||stockinstore.net/widgets/stockinstore-global.js
@@ -14355,7 +14300,6 @@
 ||telerik.com/2017.2.504/js/kendo.all.min.js
 ||telerik.com/2019.2.619/js/kendo.all.min.js
 ||telerik.com/2020.2.617/js/kendo.all.min.js
-||telerik.com/2021.1.119/js/kendo.all.min.js
 ||telerik.com/2021.1.224/js/kendo.all.min.js
 ||telerik.com/2022.1.119/js/kendo.all.min.js
 ||telerik.com/2022.3.1109/js/kendo.all.min.js
@@ -14386,7 +14330,6 @@
 ||theindiestone.com/matomo.js
 ||thelead.tech/lead/lead-latest.js
 ||themainewire.wpenginepowered.com/wp-content/plugins/sphere-post-views/assets/js/post-views.js
-||themoneytizer.com/moneybid8_24/build/dist/prebid.js
 ||thenewsmarket.com/MediaPanel/1.7.1.4/1.0.0.13/htmlamp.js
 ||thenorthface.com.edgekey.net/an/production/c75b57a/appMeasurement.js
 ||theoplayer.com/13579ca4-0238-4a48-8f72-4fab9584225a/THEOplayer.js
@@ -15888,7 +15831,6 @@
 ||uniten.io/b6b4ee.js
 ||unity.com.edgekey.net/cdn-origin/assets/Learn/commons.e731f526a6d8d95fc7f4.bundle.js
 ||unpkg.com/@adobe/magento-storefront-event-collector/dist/index.js
-||unpkg.com/@adobe/magento-storefront-event-collector@%5E1/dist/index.js
 ||unpkg.com/@pjdw/analytics-web-sdk@latest/dist/pjdw-sdk.umd.js
 ||unpkg.com/@segment/analytics-next@1.47.1/dist/umd/index.js
 ||unpkg.com/@segment/consent-manager@4.5.1/standalone/consent-manager.js
@@ -16200,7 +16142,6 @@
 ||vizzit.se/js/vizzit.tag.min.js
 ||vk.com/dist/6b5a318884d3469d78bf8c2fca986e5e.async.d882d5b8d08810c43c63.js
 ||vlitag.com/plugins/safeframe/src/js/sf_host.min.js
-||vlitag.com/prebid/default/prebid-8.21.0.js
 ||vlitag.com/w/7fa97937-6a98-46ef-82a6-c62295b441c8.js
 ||vljobb.no/assets/application-5ff69eb801aff6ffe1dd255d35467279aa7cb6d82c9467ba6e4deb56a04d5ae0.js
 ||vlyby.com/qad/prebid.js
@@ -16669,7 +16610,6 @@
 ||yastatic.net/pcode/adfox/loader.js
 ||yastatic.net/s3/front-maps-static/maps-front-jsapi-v2-1/2.1.79-12971207/build/release/full-fb7187284d745b9f8e74aa8e24314fe30137ba22.js
 ||yastatic.net/s3/home-static/_/M/9/fnGIcGnXkjKGdbMhJZ8fn8vGI.js
-||yastatic.net/safeframe-bundles/0.83/host.js
 ||yastatic.net/vas-bundles/911375/bundles/inpage.bundle.js
 ||yastatic.net/vas-bundles/918298/bundles-es2017/inpage.bundle.js
 ||yastatic.net/vas-bundles/918298/bundles-es2017/loader.bundle.js
@@ -16720,7 +16660,6 @@
 ||yieldlift.io/prebidlink/31ee76261d87fed8cb9d4c465c48158c/hbp_master_501039_13126.js
 ||yieldlove.com/v2/yieldlove-bidder.js
 ||yieldlove.com/v2/yieldlove-stroeer.js
-||yieldlove.com/v2/yieldlove.js
 ||yieldlove.com/yieldlove-bidder.js
 ||yieldlove.com/yieldlove.js
 ||yieldmo.com/ym.adv.min.js
@@ -17173,11 +17112,7 @@
 ||your-server.de/js/container_ab9Yd1yb.js
 ||yourbow.com/bottomlineinc/gpt_test.js
 ||yourbow.com/iflscience/prebid_live.js
-||youtube-nocookie.com/s/player/36ead5a4/player_ias.vflset/de_DE/base.js
-||youtube.com/s/player/31e0b6d9/player_ias.vflset/de_DE/base.js
-||youtube.com/s/player/31e0b6d9/player_ias.vflset/en_GB/base.js
 ||youtube.com/s/player/31e0b6d9/www-widgetapi.vflset/www-widgetapi.js
-||youtube.com/s/player/36ead5a4/www-widgetapi.vflset/www-widgetapi.js
 ||youvisit.com/SmartScript/latest/smartscript.js
 ||ypcdn.com.edgekey.net/ypu/vendor/index.bundle.js
 ||ypi.com/matomo.js
@@ -17299,7 +17234,6 @@
 ||zmags.com/static/wrapper.js
 ||zmbl.co/build/zmbl.js
 ||zoho.com/hub/js/MagicPopup.js
-||zohocdn.com/salesiq/js/siqnewchatwindow_OYJSE4jDw2CV5hwnVh6jSzNKyeVqm1OXsOvoW55vE1_xYyHJ7_AvE4CTAu9yOXkZ_.js
 ||zohostatic.com/zohosurvey/v9_80/js/publishedform_utils.js
 ||zookcabins.b-cdn.net/wp-content/plugins/cleantalk-spam-protect/js/apbct-public-bundle.min.js
 ||zookcabins.b-cdn.net/wp-content/plugins/revslider/public/assets/js/rs6.min.js
