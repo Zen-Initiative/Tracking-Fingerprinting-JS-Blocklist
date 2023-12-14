@@ -18,7 +18,7 @@
   
 ---
   
-#### 🔏 Tracking (Fingerprinting) JS Blocklist - Possible tracking URLs
+#### 🔏 Tracking (Fingerprinting) JS Blocklist - Possible tracking JS
 - **URL blocklist**:  
 [https://raw.githubusercontent.com/Zen-Initiative/Tracking-Fingerprinting-JS-Blocklist/main/URL-blocklists/tracking-js-possible-URLs.txt](https://raw.githubusercontent.com/Zen-Initiative/Tracking-Fingerprinting-JS-Blocklist/main/URL-blocklists/tracking-js-possible-URLs.txt)  
 - **uBO blocklist**:  
