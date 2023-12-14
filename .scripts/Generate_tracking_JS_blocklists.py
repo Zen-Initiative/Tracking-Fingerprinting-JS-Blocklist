@@ -1,5 +1,8 @@
 #!/usr/bin/python3
 
+# Adapted from https://gitlab.com/malware-filter/tracking-filter/-/tree/main/src
+# Converted to python with changes and tweaks
+
 # Extract tracking JS URLs from DuckDuckGo Tracker Radar data 
 # High-certainty URLs Only: fingerprinting = 3 (see https://github.com/duckduckgo/tracker-radar/blob/main/docs/FAQ.md)
 
@@ -54,7 +57,10 @@ for country in countries:
                     unique_links.add(link)  # Add the link to the set of unique links 
 
 with open(outputFile, 'w') as out: # Write the unique links to the output file (overwriting existing file)
-    sorted_links = sorted(unique_links)  # Sort the unique links alphabetically
+    with open('tracking-js-high-URLs.txt', 'r', encoding="utf-8") as f1:
+        existing_links = f1.read().splitlines() 
+    final_links = set(set(unique_links) - set(existing_links))
+    sorted_links = sorted(final_links)  # Sort the final links alphabetically
     for link in sorted_links:
         out.write(link + '\n')
 
