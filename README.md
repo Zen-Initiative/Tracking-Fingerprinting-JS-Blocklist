@@ -57,13 +57,13 @@ See a real-life example with more detail in our Wiki: [Notes on uBO strict block
 ---
   
 #### ⚙️ Generate blocklists
-- The script used to generate these blocklists was adapted from [malware-filter/tracking-filter](https://gitlab.com/malware-filter/tracking-filter), converted to python with changes and tweaks.
+- The script used to generate these blocklists was adapted from [malware-filter/tracking-filter](https://gitlab.com/malware-filter/tracking-filter) and converted to python with changes and tweaks.
   
 ---
   
 ## License
 - This project: [Creative Commons Zero v1.0 Universal](https://github.com/Zen-Initiative/Tracking-Fingerprinting-JS-Blocklist/blob/main/LICENSE)  
 - DuckDuckGo Tracker Radar data: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). This repository is not endorsed by DuckDuckGo.
-- [Original scripts](https://gitlab.com/malware-filter/tracking-filter/-/tree/main/src) for URL extraction and blocklist generation: [Creative Commons Zero v1.0 Universal](https://gitlab.com/malware-filter/tracking-filter/-/blob/main/LICENSE-CC0.md) and [MIT License](https://gitlab.com/malware-filter/tracking-filter/-/blob/main/LICENSE).
+- [Original scripts](https://gitlab.com/malware-filter/tracking-filter/-/tree/main/src) for URL extraction & blocklist generation: [Creative Commons Zero v1.0 Universal](https://gitlab.com/malware-filter/tracking-filter/-/blob/main/LICENSE-CC0.md) and [MIT License](https://gitlab.com/malware-filter/tracking-filter/-/blob/main/LICENSE).
 
 ---
