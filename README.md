@@ -62,6 +62,16 @@ See a real-life example with more detail in our Wiki: [Notes on uBO strict block
   
 ---
   
+#### Using 🛡️ JS Blocklists together with 📛 Domain Blocklists
+- The JS Blocklists only blocks specific JS files (for uBO/ABP/AdGuard etc.)
+- The [domain lists](https://github.com/Zen-Initiative/Tracking-Fingerprinting-Domain-Blocklists) block whole domains (for DNS blocking, Pi-Hole blocklists, hosts files, etc.)
+  
+Use both lists together for more protection.  
+  
+Sometimes it is not possible to block the whole domains of popular websites (the entire websites will be blocked including all the content and functions), in which case the JS blocklists will kick in to block specific tracking/fingerprinting JS files hosted on these popular websites.  
+  
+---
+  
 ## License
 - This project: [Creative Commons Zero v1.0 Universal](https://github.com/Zen-Initiative/Tracking-Fingerprinting-JS-Blocklist/blob/main/LICENSE)  
 - DuckDuckGo Tracker Radar data: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). This repository is not endorsed by DuckDuckGo.
