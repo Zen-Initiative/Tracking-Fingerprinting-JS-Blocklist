@@ -1,4 +1,5 @@
-# 🛡️ Tracking/Fingerprinting JS Blocklist (based on DDG Tracker Radar)  
+# 🛡️ Tracking (Fingerprinting) JS Blocklist 
+Based on DuckDuckGo Tracker Radar  
 
 ---
 
