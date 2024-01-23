@@ -53,6 +53,7 @@ See a real-life example with more detail in our Wiki: [Notes on uBO strict block
   
 #### 🔓 Whitelisting & potential false positives
 - Currently no whitelist is applied when generating the blocklists.
+- Occasional manual maintenance (e.g. removal of incorrectly processed URLs) may be carried out from time to time
 - An optional [Unbreak List](https://raw.githubusercontent.com/Zen-Initiative/Tracking-Fingerprinting-JS-Blocklist/main/uBO-unbreak-list/tracking-js-unbreak-uBO.txt) is provided for uBO (recommended to use together with the "strict" version of filter lists)
 - Create local exceptions (in uBO ect) to handle other false positives.
   
