@@ -1,1 +1,14 @@
+! Title: 🔓 Tracking (Fingerprinting) JS - unbreak list
+! Updated: 2024-01-23T00:50:42Z
+! Recommended to use together with the "strict" version of filter lists
+! Homepage: https://github.com/Zen-Initiative/Tracking-Fingerprinting-JS-Blocklist
+! License: https://github.com/Zen-Initiative/Tracking-Fingerprinting-JS-Blocklist/blob/main/README.md#license
 
+! unbreak YouTube video player and embedded player
+@@/s/player/*/player_ias.vflset/*/base.js$script,domain=youtube.com|youtu.be|youtube-nocookie.com
+@@/s/player/*/www-embed-player.vflset/www-embed-player.js$script,domain=youtube.com|youtu.be|youtube-nocookie.com
+
+! unbreak Panopto video list and video player
+@@||panopto.com/Panopto/Cache/*/Scripts/Panopto/Bundles/vendors.js$script
+@@||panopto.com/Panopto/Cache/*/Scripts/Panopto/Bundles/core.umd.js$script
+!@@||panopto.com/Panopto/Cache/*/Scripts/FlowPlayer/*/flowplayer.min.js$script
