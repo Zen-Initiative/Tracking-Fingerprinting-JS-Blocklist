@@ -44,9 +44,11 @@ What does this mean?
 ---
 
 #### 🔒🔒 uBO strict blocklists 🔏🔏
-
-The strict version of the uBO blocklists makes use of the `$all` option in [uBO's extended syntax](https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#all) to protect `inline script tags` and `inline font tags` (which can be used for fingerprinting) if another filter list contains an exception to unblock the JS.  
-
+  
+The strict version of our uBO blocklists specify both `$script` and `$inline-font`. In the case that another filter list contains an exception to unblock the javascript, our strict list still blocks `$inline-font` as a potential fingerprinting vector.  
+  
+It’s only needed when exceptions exist in other filter lists to unblock a script.  
+  
 See a real-life example with more detail in our Wiki: [Notes on uBO strict blocklists](https://github.com/Zen-Initiative/Tracking-Fingerprinting-JS-Blocklist/wiki/Notes-on-uBO-strict-blocklists)  
   
 ---
