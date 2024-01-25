@@ -5,7 +5,7 @@ Based on DuckDuckGo Tracker Radar
 
 - **May contain false positives - use with caution :)**  
 - Blocks common tracking JS that may use multiple browser APIs to fingerprint users.  
-- Data source: [DuckDuckGo Tracker Radar](https://github.com/duckduckgo/tracker-radar) (see their [blog post](https://spreadprivacy.com/duckduckgo-tracker-radar/) and [docs](https://github.com/duckduckgo/tracker-radar/tree/main/docs) for detail) 
+- Data source: [DuckDuckGo Tracker Radar](https://github.com/duckduckgo/tracker-radar) (see their [blog post](https://spreadprivacy.com/duckduckgo-tracker-radar/) and [docs](https://github.com/duckduckgo/tracker-radar/tree/main/docs) for details)
 
 ---  
   
@@ -62,12 +62,12 @@ See a real-life example with more detail in the Wiki: [Notes on uBO strict block
 ---
   
 #### ⚙️ Generate blocklists
-- The [script](https://github.com/Zen-Initiative/Tracking-Fingerprinting-JS-Blocklist/blob/main/.scripts/Generate_tracking_JS_blocklists.py) used to generate these blocklists was adapted from [tracking-filter](https://gitlab.com/malware-filter/tracking-filter) and converted to python with changes and tweaks.
+- The [script](https://github.com/Zen-Initiative/Tracking-Fingerprinting-JS-Blocklist/blob/main/.scripts/Generate_tracking_JS_blocklists.py) used to generate these blocklists was adapted from [tracking-filter](https://gitlab.com/malware-filter/tracking-filter) and converted to Python with changes and tweaks.
   
 ---
   
 #### Using 🛡️ JS Blocklists together with 📛 Domain Blocklists
-- The JS Blocklists only blocks specific JS files (for uBO/ABP/AdGuard etc.)
+- The JS Blocklists only block specific JS files (for uBO/ABP/AdGuard etc.)
 - The [domain lists](https://github.com/Zen-Initiative/Tracking-Fingerprinting-Domain-Blocklists) block whole domains (for DNS blocking, Pi-Hole blocklists, hosts files, etc.)
   
 Use both lists together for more protection.  
