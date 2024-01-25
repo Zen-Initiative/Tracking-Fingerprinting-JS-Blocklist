@@ -1,6 +1,6 @@
 ! Title: 🔓 Tracking (Fingerprinting) JS - unbreak list
 ! Updated: 2024-01-23T00:50:42Z
-! Recommended to use together with the "strict" version of filter lists
+! Recommended to use with "strict" blocklists  
 ! Homepage: https://github.com/Zen-Initiative/Tracking-Fingerprinting-JS-Blocklist
 ! License: https://github.com/Zen-Initiative/Tracking-Fingerprinting-JS-Blocklist/blob/main/README.md#license
 
