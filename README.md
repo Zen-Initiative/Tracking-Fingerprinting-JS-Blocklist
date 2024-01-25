@@ -3,7 +3,7 @@ Based on DuckDuckGo Tracker Radar
 
 ---
 
-- **Test only, use at your own risk :)**  
+- **May contain false positives - use with caution :)**  
 - Blocks common tracking JS that may use multiple browser APIs to fingerprint users.  
 - Data source: [DuckDuckGo Tracker Radar](https://github.com/duckduckgo/tracker-radar) (see their [blog post](https://spreadprivacy.com/duckduckgo-tracker-radar/) and [docs](https://github.com/duckduckgo/tracker-radar/tree/main/docs) for detail) 
 
@@ -45,18 +45,18 @@ What does this mean?
 
 #### 🔒🔒 uBO strict blocklists 🔏🔏
   
-The strict version of our uBO blocklists specify both `$script` and `$inline-font`. In the case that another filter list contains an exception to unblock the javascript, our strict list still blocks `$inline-font` as a potential fingerprinting vector.  
+The strict blocklists utilize uBO’s extended syntax to explicitly block both `$script` and `$inline-font`. If another filter list contains an exception to unblock the script, `$inline-font` is still blocked as a potential fingerprinting vector.  
+
+It’s only needed when there’s an exception in another filter list that unblocks a script.  
   
-It’s only needed when exceptions exist in other filter lists to unblock a script.  
-  
-See a real-life example with more detail in our Wiki: [Notes on uBO strict blocklists](https://github.com/Zen-Initiative/Tracking-Fingerprinting-JS-Blocklist/wiki/Notes-on-uBO-strict-blocklists)  
+See a real-life example with more detail in the Wiki: [Notes on uBO strict blocklists](https://github.com/Zen-Initiative/Tracking-Fingerprinting-JS-Blocklist/wiki/Notes-on-uBO-strict-blocklists)  
   
 ---
   
 #### 🔓 Whitelisting & potential false positives
 - Currently no whitelist is applied when generating the blocklists.
 - Occasional manual maintenance (e.g. removal of incorrectly processed URLs) may be carried out
-- An optional [Unbreak List](https://raw.githubusercontent.com/Zen-Initiative/Tracking-Fingerprinting-JS-Blocklist/main/uBO-unbreak-list/tracking-js-unbreak-uBO.txt) is provided for uBO (recommended to use with "strict" filter lists)
+- An optional [Unbreak List](https://raw.githubusercontent.com/Zen-Initiative/Tracking-Fingerprinting-JS-Blocklist/main/uBO-unbreak-list/tracking-js-unbreak-uBO.txt) is provided for uBO (recommended to use with "strict" blocklists)
 - Create local exceptions (in uBO ect) to handle other false positives.
   
 ---
