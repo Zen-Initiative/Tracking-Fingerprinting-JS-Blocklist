@@ -93,7 +93,7 @@ with open('tracking-js-high-URLs.txt', 'r', encoding="utf-8") as file:
     lines = file.readlines()
 
     modified_lines = ['||' + line.strip() for line in lines]
-    modified_lines_strict = ['||' + line.strip() + '$all,~doc,~popup' for line in lines]  
+    modified_lines_strict = ['||' + line.strip() + '$script,inline-font' for line in lines]  
 
     modified_lines.insert(0, COMMENT_UBO1)
     modified_lines_strict.insert(0, COMMENT_UBO3)
@@ -111,7 +111,7 @@ with open('tracking-js-possible-URLs.txt', 'r', encoding="utf-8") as file:
     lines = file.readlines()
 
     modified_lines = ['||' + line.strip() for line in lines]
-    modified_lines_strict = ['||' + line.strip() + '$all,~doc,~popup' for line in lines]  
+    modified_lines_strict = ['||' + line.strip() + '$script,inline-font' for line in lines]  
     
     modified_lines.insert(0, COMMENT_UBO2)
     modified_lines_strict.insert(0, COMMENT_UBO4)
